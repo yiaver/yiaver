@@ -1,6 +1,7 @@
 ### Opa eu sou o yiaver 👋
 
 - 🌱 I’m currently learning python -- Atualmente estou estudando python.
+- 😎 This current perfil is for me post my prjects and prototypes.
 
 <div>
 <a href="https://github.com/yiaver">
