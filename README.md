@@ -6,7 +6,7 @@
 <p>
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos
  </p>
- <p align="center">
+ <p align="rigth">
  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" height="100px"></p>
 
 <div>
