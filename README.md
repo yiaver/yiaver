@@ -3,7 +3,7 @@
 <p>
  - 🌱 I’m a Python programer --Sou um progamador python <img src="https://www.unit.br/hs-fs/hubfs/a-web-mkt/inbound-mkt/gifs/legal.gif?width=445&name=legal.gif" width="50px" height="50px">
 
- - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos</p>
+- 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos</p>
 
 <div>
 <a href="https://github.com/yiaver">
