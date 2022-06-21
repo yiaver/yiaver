@@ -1,4 +1,4 @@
-<h1>Ola eu sou o yiver - Hi i'am yiaver<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> </h1>
+<h1>Ola eu sou o yiver <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> - Hi i'am yiaver<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 
 - 🌱 I’m a Python programer --Sou um progamador python
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos
