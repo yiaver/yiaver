@@ -2,8 +2,11 @@
 
 <p>
  - 🌱 I’m a Python programer --Sou um progamador python <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" width="35px" height="35px">
-
+</p>
+<p>
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos
+ </p>
+ <p>
  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" height="50px"></p>
 
 <div>
