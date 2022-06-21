@@ -1,7 +1,7 @@
 <h1>Ola eu sou o yiver <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> - Hi i'am yiaver<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 
 <p>
- - 🌱 I’m a Python programer --Sou um progamador python <img src="https://www.python.org/static/img/psf-logo.png" width="20px" height="20px">
+ - 🌱 I’m a Python programer --Sou um progamador python <img src="https://www.python.org/static/img/psf-logo.png" width="40px" height="20px">
 
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="50px" height="50px"></p>
 
