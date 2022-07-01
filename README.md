@@ -3,8 +3,9 @@
 
 <p>
  - 🌱 I’m a Python programer --Sou um progamador python 
+ <img> src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"</img>
 </p>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <p>
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos
  </p>
