@@ -2,7 +2,7 @@
 <h1>Ola eu sou o yiaver <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> - Hi i'am yiaver<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 
 <p>
- - 🌱 I’m a Python programer --Sou um progamador python <img class = "pythonIMG"src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" width="35px" height="35px">
+ - 🌱 I’m a Python programer --Sou um progamador python [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </p>
 <p>
 - 😎 This perfil is where I’m post my projects and prototypes. -- esse perfil é onde eu posto meus projetos e protótipos
